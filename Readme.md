@@ -37,11 +37,11 @@ The dataset used is the **Sample Superstore dataset**, commonly used for sales a
 
 ### Full Dashboard
 
-images/dashboard_full.png
+![Full Dashboard](images/dashboard_full.png)
 
 ### Clean Dashboard View
 
-images/dashboard_clean.png
+![Clean Dashboard](images/dashboard_clean.png)
 
 ---
 
